@@ -1,0 +1,107 @@
+2025-09-17 00:11:19 - INFO - ******************Test_01_Admin_Login*********************
+2025-09-17 00:11:19 - INFO - ******************Title Verification*********************
+2025-09-17 00:11:20 - INFO - ******************Title Matched*********************
+2025-09-17 00:11:21 - INFO - ******************Valid Login Verification*********************
+2025-09-17 00:11:25 - INFO - ******************Logged in successfully*********************
+2025-09-17 00:11:26 - INFO - ******************Invalid Login Verification*********************
+2025-09-17 00:11:28 - INFO - ******************Verified the error message*********************
+2025-09-17 00:12:03 - INFO - ******************Test_01_Admin_Login*********************
+2025-09-17 00:12:03 - INFO - ******************Title Verification*********************
+2025-09-17 00:12:04 - INFO - ******************Title Matched*********************
+2025-09-17 00:12:05 - INFO - ******************Valid Login Verification*********************
+2025-09-17 00:12:08 - INFO - ******************Logged in successfully*********************
+2025-09-17 00:12:10 - INFO - ******************Invalid Login Verification*********************
+2025-09-17 00:12:12 - INFO - ******************The error message not verified*********************
+2025-09-17 07:34:29 - INFO - ******************Test_01_Admin_Login*********************
+2025-09-17 07:34:29 - INFO - ******************Title Verification*********************
+2025-09-17 07:34:30 - INFO - ******************Title Matched*********************
+2025-09-17 07:34:38 - INFO - ******************Valid Login Verification*********************
+2025-09-17 07:34:41 - INFO - ******************Logged in successfully*********************
+2025-09-17 07:34:49 - INFO - ******************Invalid Login Verification*********************
+2025-09-17 07:34:51 - INFO - ******************The error message not verified*********************
+2025-09-17 07:36:30 - INFO - <pytest_fixture(<function browser at 0x0000017E4A7FA700>)>
+2025-09-17 07:36:36 - INFO - ******************Test_01_Admin_Login*********************
+2025-09-17 07:36:36 - INFO - ******************Title Verification*********************
+2025-09-17 07:36:38 - INFO - ******************Title Matched*********************
+2025-09-17 07:36:45 - INFO - ******************Valid Login Verification*********************
+2025-09-17 07:36:49 - INFO - ******************Logged in successfully*********************
+2025-09-17 07:36:56 - INFO - ******************Invalid Login Verification*********************
+2025-09-17 07:36:58 - INFO - ******************The error message not verified*********************
+2025-09-17 07:38:03 - INFO - <module 'selenium.webdriver' from 'C:\\Users\\supre\\PycharmProjects\\PythonAutomation\\nopCommerce\\.venv\\Lib\\site-packages\\selenium\\webdriver\\__init__.py'>
+2025-09-17 07:38:10 - INFO - ******************Test_01_Admin_Login*********************
+2025-09-17 07:38:10 - INFO - ******************Title Verification*********************
+2025-09-17 07:38:12 - INFO - ******************Title Matched*********************
+2025-09-17 07:38:19 - INFO - ******************Valid Login Verification*********************
+2025-09-17 07:38:23 - INFO - ******************Logged in successfully*********************
+2025-09-17 07:38:30 - INFO - ******************Invalid Login Verification*********************
+2025-09-17 07:38:33 - INFO - ******************The error message not verified*********************
+2025-09-17 07:39:19 - INFO - <pytest_fixture(<function setup at 0x000001AD4DCE3E20>)>
+2025-09-17 07:39:26 - INFO - ******************Test_01_Admin_Login*********************
+2025-09-17 07:39:26 - INFO - ******************Title Verification*********************
+2025-09-17 07:39:27 - INFO - ******************Title Matched*********************
+2025-09-17 07:39:34 - INFO - ******************Valid Login Verification*********************
+2025-09-17 07:39:37 - INFO - ******************Logged in successfully*********************
+2025-09-17 07:39:45 - INFO - ******************Invalid Login Verification*********************
+2025-09-17 07:39:47 - INFO - ******************The error message not verified*********************
+2025-09-17 07:57:57 - INFO - <pytest_fixture(<function setup at 0x0000021F639F9260>)>
+2025-09-17 07:57:57 - INFO - <pytest_fixture(<function setup at 0x000001717DD49260>)>
+2025-09-17 07:57:57 - INFO - <pytest_fixture(<function setup at 0x00000166492C9260>)>
+2025-09-17 07:58:00 - INFO - ******************Invalid Login Verification*********************
+2025-09-17 07:58:00 - INFO - ******************Valid Login Verification*********************
+2025-09-17 07:58:00 - INFO - ******************Test_01_Admin_Login*********************
+2025-09-17 07:58:00 - INFO - ******************Title Verification*********************
+2025-09-17 07:58:02 - INFO - ******************Title Matched*********************
+2025-09-17 07:58:03 - INFO - ******************The error message not verified*********************
+2025-09-17 07:58:05 - INFO - ******************Logged in successfully*********************
+2025-09-17 08:04:26 - INFO - Initializing WebDriver for browser: chrome
+2025-09-17 08:04:26 - INFO - Initializing WebDriver for browser: chrome
+2025-09-17 08:04:26 - INFO - Initializing WebDriver for browser: chrome
+2025-09-17 08:04:28 - INFO - ******************Test_01_Admin_Login*********************
+2025-09-17 08:04:28 - INFO - ******************Title Verification*********************
+2025-09-17 08:04:28 - INFO - ******************Invalid Login Verification*********************
+2025-09-17 08:04:28 - INFO - ******************Valid Login Verification*********************
+2025-09-17 08:04:29 - INFO - ******************Title Matched*********************
+2025-09-17 08:04:30 - INFO - ******************The error message not verified*********************
+2025-09-17 08:04:32 - INFO - ******************Logged in successfully*********************
+2025-09-19 00:36:25 - INFO - Initializing WebDriver for browser: chrome
+2025-09-19 00:36:30 - INFO - ******************Test_01_Admin_Login*********************
+2025-09-19 00:36:30 - INFO - ******************Title Verification*********************
+2025-09-19 00:36:31 - INFO - ******************Title Matched*********************
+2025-09-19 00:36:31 - INFO - Initializing WebDriver for browser: chrome
+2025-09-19 00:36:32 - INFO - ******************Valid Login Verification*********************
+2025-09-19 00:36:37 - INFO - ******************Logged in successfully*********************
+2025-09-19 00:36:37 - INFO - Initializing WebDriver for browser: chrome
+2025-09-19 00:36:38 - INFO - ******************Invalid Login Verification*********************
+2025-09-19 00:36:40 - INFO - ******************The error message not verified*********************
+2025-09-19 00:52:06 - INFO - Initializing WebDriver for browser: chrome
+2025-09-19 00:52:07 - INFO - ******************Test_01_Admin_Login*********************
+2025-09-19 00:52:07 - INFO - ******************Title Verification*********************
+2025-09-19 00:52:08 - INFO - ******************Title Matched*********************
+2025-09-19 00:52:08 - INFO - Initializing WebDriver for browser: chrome
+2025-09-19 00:52:09 - INFO - ******************Valid Login Verification*********************
+2025-09-19 00:52:20 - INFO - ******************Logged in successfully*********************
+2025-09-19 00:52:20 - INFO - Initializing WebDriver for browser: chrome
+2025-09-19 00:52:21 - INFO - ******************Invalid Login Verification*********************
+2025-09-19 00:52:23 - INFO - ******************The error message not verified*********************
+2025-09-20 09:42:00 - INFO - Initializing WebDriver for browser: chrome
+2025-09-20 09:42:02 - INFO - ******************Valid Login Data Driven Verification*********************
+2025-09-20 09:43:54 - INFO - Initializing WebDriver for browser: chrome
+2025-09-20 09:43:56 - INFO - ******************Valid Login Data Driven Verification*********************
+2025-09-20 09:44:48 - INFO - Initializing WebDriver for browser: chrome
+2025-09-20 09:44:49 - INFO - ******************Valid Login Data Driven Verification*********************
+2025-09-20 09:44:52 - INFO - ******************Test data passed*********************
+2025-09-20 10:13:01 - INFO - Initializing WebDriver for browser: chrome
+2025-09-20 10:13:02 - INFO - ******************Valid Login Data Driven Verification*********************
+2025-09-20 10:13:05 - INFO - ******************Test data passed*********************
+2025-09-20 10:18:44 - INFO - Initializing WebDriver for browser: chrome
+2025-09-20 10:18:45 - INFO - ******************Valid Login Data Driven Verification*********************
+2025-09-20 10:18:50 - INFO - ******************Test data passed*********************
+2025-09-20 10:19:21 - INFO - Initializing WebDriver for browser: chrome
+2025-09-20 10:19:22 - INFO - ******************Valid Login Data Driven Verification*********************
+2025-09-20 10:19:35 - INFO - ******************Test data passed*********************
+2025-09-20 10:29:00 - INFO - Initializing WebDriver for browser: chrome
+2025-09-20 10:29:01 - INFO - ******************Valid Login Data Driven Verification*********************
+2025-09-20 10:29:33 - INFO - ******************Test data passed*********************
+2025-09-20 10:29:36 - INFO - ******************Test data Passed*********************
+2025-09-20 10:29:36 - INFO - ******************Test data Passed*********************
+2025-09-20 10:29:36 - INFO - Test Admin data driven test is pass
