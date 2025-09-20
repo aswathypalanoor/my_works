@@ -41,6 +41,9 @@
     <li>Integrate seamlessly with CI/CD pipelines</li>
   </ul>
 
+  <h2>⚙️🔧Please Note:</h2>
+  <p>This framework is still work in progress. I am working on Jenkins integration for the same. Will commit the codes soon</p>
+
 </body>
 </html>
 
